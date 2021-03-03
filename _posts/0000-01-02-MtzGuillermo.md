@@ -2,4 +2,4 @@
 layout : slide
 title: "Welcome to our second slide!"
 ---
-This is a test, dont worry about it
+I have a second thought, but still its a test
